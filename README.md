@@ -1,2 +1,2 @@
-# notes
-学习笔记
+# php notes
+PHP学习笔记
